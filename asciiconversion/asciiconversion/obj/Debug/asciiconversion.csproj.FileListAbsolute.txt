@@ -1,0 +1,7 @@
+C:\Users\Bindumadhavi\source\repos\asciiconversion\asciiconversion\bin\Debug\asciiconversion.exe.config
+C:\Users\Bindumadhavi\source\repos\asciiconversion\asciiconversion\bin\Debug\asciiconversion.exe
+C:\Users\Bindumadhavi\source\repos\asciiconversion\asciiconversion\bin\Debug\asciiconversion.pdb
+C:\Users\Bindumadhavi\source\repos\asciiconversion\asciiconversion\obj\Debug\asciiconversion.csprojResolveAssemblyReference.cache
+C:\Users\Bindumadhavi\source\repos\asciiconversion\asciiconversion\obj\Debug\asciiconversion.csproj.CoreCompileInputs.cache
+C:\Users\Bindumadhavi\source\repos\asciiconversion\asciiconversion\obj\Debug\asciiconversion.exe
+C:\Users\Bindumadhavi\source\repos\asciiconversion\asciiconversion\obj\Debug\asciiconversion.pdb

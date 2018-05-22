@@ -1,0 +1,7 @@
+C:\Users\Bindumadhavi\source\repos\primesum\primesum\obj\Debug\primesum.csproj.CoreCompileInputs.cache
+C:\Users\Bindumadhavi\source\repos\primesum\primesum\bin\Debug\primesum.exe.config
+C:\Users\Bindumadhavi\source\repos\primesum\primesum\bin\Debug\primesum.exe
+C:\Users\Bindumadhavi\source\repos\primesum\primesum\bin\Debug\primesum.pdb
+C:\Users\Bindumadhavi\source\repos\primesum\primesum\obj\Debug\primesum.exe
+C:\Users\Bindumadhavi\source\repos\primesum\primesum\obj\Debug\primesum.pdb
+C:\Users\Bindumadhavi\source\repos\primesum\primesum\obj\Debug\primesum.csprojResolveAssemblyReference.cache

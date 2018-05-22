@@ -1,0 +1,7 @@
+C:\Users\Bindumadhavi\source\repos\addingnumbers\addingnumbers\bin\Debug\addingnumbers.exe.config
+C:\Users\Bindumadhavi\source\repos\addingnumbers\addingnumbers\bin\Debug\addingnumbers.exe
+C:\Users\Bindumadhavi\source\repos\addingnumbers\addingnumbers\bin\Debug\addingnumbers.pdb
+C:\Users\Bindumadhavi\source\repos\addingnumbers\addingnumbers\obj\Debug\addingnumbers.csprojResolveAssemblyReference.cache
+C:\Users\Bindumadhavi\source\repos\addingnumbers\addingnumbers\obj\Debug\addingnumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bindumadhavi\source\repos\addingnumbers\addingnumbers\obj\Debug\addingnumbers.exe
+C:\Users\Bindumadhavi\source\repos\addingnumbers\addingnumbers\obj\Debug\addingnumbers.pdb
